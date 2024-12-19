@@ -1,0 +1,19 @@
+body {
+  font-family: Verdana, sans-serif;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+h1 {
+	background-color: #d6dea6;
+	font-family: Courier;
+	text-align:center;
+	color: #cf6060;
+}
+
+form {
+  text-align: center;
+  flex-wrap: wrap;
+  margin: 15px;
+}
+
